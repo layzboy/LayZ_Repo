@@ -1,2 +1,2 @@
 # LayZ_Repo
-For GA class
+For GA data science class
