@@ -1,2 +1,3 @@
 # LayZ_Repo
-For GA data science class.  Edit 2 8/8/2018
+For GA data science class.  Edit 3 8/8/2018
+Change made in GitHub GUI
